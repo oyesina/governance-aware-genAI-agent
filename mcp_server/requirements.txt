@@ -1,0 +1,5 @@
+google-adk
+google-auth
+requests
+python-dotenv
+toolbox-core
